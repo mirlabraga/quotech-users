@@ -1,0 +1,13 @@
+package com.quotech.quotechusers;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class QuotechUsersApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(QuotechUsersApplication.class, args);
+	}
+
+}
